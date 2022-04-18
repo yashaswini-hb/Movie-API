@@ -1,0 +1,5 @@
+{
+    "env":{
+        "JWT_KEY":"FSMovies2021"
+    }
+}
